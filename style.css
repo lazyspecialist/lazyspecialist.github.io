@@ -1,0 +1,21 @@
+body {
+	background-image: url("beach.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: #EBC800 ;
+	font-family: 'manslava', cursive;
+
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.row2 {
+	position: absolute;
+	top: 600px;
+	bottom: 0;
+}
